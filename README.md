@@ -64,8 +64,9 @@ Used `cross_val_predict` (5-fold) rather than scoring the whole dataset with a s
 2. **Churn Drivers** — payment method, internet service, and tenure breakdowns
 3. **ML Model Insights** — rule-based vs. model-based revenue at risk comparison, and a segment-agreement matrix
 
-![Churn Drivers page](./images/churn_drivers.png)
-![ML Model Insights page](./images/ml_model_insights.png)
+![Executive Overview page](./Executive%20Overview%20page.png)
+![Churn Drivers page](./Churn%20drivers%20page.png)
+![ML Model Insights page](./ML%20model%20insights%20page.png)
 
 ## Retention Recommendations
 
@@ -89,9 +90,9 @@ Full prioritized recommendations in [retention_recommendations.md](./retention_r
 ├── customer_churn_PowerBI.pbix
 ├── retention_recommendations.md
 ├── README.md
-└── images/
-    ├── churn_drivers.png
-    └── ml_model_insights.png
+├── Executive Overview page.png
+├── Churn drivers page.png
+└── ML model insights page.png
 ```
 
 ## Tools Used
