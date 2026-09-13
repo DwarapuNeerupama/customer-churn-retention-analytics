@@ -2,6 +2,16 @@
 
 A multi-tool analysis of customer churn for a telecom provider — using Python, SQL, machine learning, and Power BI to figure out who's leaving, why, how much revenue is at stake, and what to do about it.
 
+**Business Question:** Which customers are most likely to churn, what factors are associated with churn, and how much revenue is at risk?
+
+**Tools:** Python (pandas, scikit-learn) | SQL (MySQL) | Power BI (DAX)
+
+**Dataset:** 7,043 telecom customers, 21 original features ([Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn))
+
+**Analysis:** customer segmentation, statistical churn-driver testing, ML risk scoring, revenue-at-risk quantification (rule-based and model-based)
+
+**Outcome:** identified high-risk customer segments (contract type, payment method, internet service) and translated findings into prioritized, revenue-weighted retention recommendations
+
 ## Business Question
 
 Telecom companies lose a significant share of revenue every year to customer churn. This project asks four questions a retention team would actually need answered:
